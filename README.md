@@ -1,4 +1,4 @@
-# FILTERING CITRA
+
 
 #Nomor 1
 
